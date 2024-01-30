@@ -1,2 +1,4 @@
 # mips-5-pipeline
-使用SystemVerilog语言，完成一个五级流水线MIPS处理器设计
+本项目包含数字逻辑与计算机体系结构大作业五级流水线MIPS处理器设计的SystemVerilog代码。项目中的代码均可直接运行。
+
+仅用作学习参考，切勿直接抄袭；如果对你有帮助，欢迎点亮Star。
